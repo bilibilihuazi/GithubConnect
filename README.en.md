@@ -1,4 +1,5 @@
 # GithubConnect
+[中文](README.md) | [English](README.en.md)
 ## Operation Principle
 
 This software **only modifies the hosts file and flushes the DNS cache**, without using any *VPN tools (proxies, bypass tools, etc.)*.<br>  

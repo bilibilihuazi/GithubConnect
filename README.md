@@ -1,4 +1,5 @@
 # GithubConnect
+[中文](README.md) | [English](README.en.md)
 ## 运作原理
 
 此软件**仅修改host文件以及刷新DNS解析缓存**,没有用到任何*VPN软件(梯子，飞机，魔法)*<br>
