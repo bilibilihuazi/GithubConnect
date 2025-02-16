@@ -11,5 +11,8 @@
 ## 运行库
 此软件使用 **.NET Framework4.8** 框架开发，如没有安装.NET Framework框架，请按照程序指引安装.NET Framework框架<br>
 
+## 附属文件
+本程序为**单文件程序**，运行后会生成`config.ini`和`Log.log`文件。`config.ini`文件为软件的配置文件；`Log.log`文件用于存放程序运行日志，方便调试<br>
+
 ## 参考资料
 [运作原理](https://blog.csdn.net/weixin_43804496/article/details/131475204)<br>
