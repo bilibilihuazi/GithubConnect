@@ -96,7 +96,7 @@
             // 
             this.button_Fix.Location = new System.Drawing.Point(12, 76);
             this.button_Fix.Name = "button_Fix";
-            this.button_Fix.Size = new System.Drawing.Size(177, 26);
+            this.button_Fix.Size = new System.Drawing.Size(184, 26);
             this.button_Fix.TabIndex = 2;
             this.button_Fix.Text = "修复连接";
             this.button_Fix.UseVisualStyleBackColor = true;
@@ -104,9 +104,9 @@
             // 
             // button_CheckCn
             // 
-            this.button_CheckCn.Location = new System.Drawing.Point(225, 76);
+            this.button_CheckCn.Location = new System.Drawing.Point(218, 76);
             this.button_CheckCn.Name = "button_CheckCn";
-            this.button_CheckCn.Size = new System.Drawing.Size(177, 26);
+            this.button_CheckCn.Size = new System.Drawing.Size(184, 26);
             this.button_CheckCn.TabIndex = 3;
             this.button_CheckCn.Text = "连通性测试";
             this.button_CheckCn.UseVisualStyleBackColor = true;
